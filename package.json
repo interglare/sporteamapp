@@ -10,7 +10,7 @@
     "date-fns": "^2.0.0-alpha.25",
     "firebase": "^5.3.0",
     "history": "^4.9.0",
-    "markdown-to-jsx": "^6.9.4",
+    "markdown-to-jsx": "^6.11.4",
     "material-ui-pickers": "^2.1.2",
     "moment": "^2.24.0",
     "mui-places-autocomplete": "^2.0.0",
